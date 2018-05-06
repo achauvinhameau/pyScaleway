@@ -1,0 +1,3 @@
+scaleway-sdk
+slumber
+argparse
